@@ -80,19 +80,6 @@ Le benchmark utilise deux GLM standards :
 - Exemple de soumission aléatoire
 - Documentation supplémentaire
 
-## Contact
-Pour toute question concernant le challenge :
-Email : AcademieDatascience@ca-assurances.fr
-
-## Liens Utiles
-- Site Web de l'Organisateur : [Crédit Agricole Assurances](https://www.ca-assurances.fr/)
-- Documentation complète des variables disponibles
-
-## Notes Importantes
-- Les données sensibles sont anonymisées (surfaces, capitaux, prévention)
-- Le challenge vise à surpasser les performances des GLM standards
-- L'interprétabilité des modèles est un critère important
-- Les contraintes métier doivent être prises en compte dans les modèles
 
 ## Auteur
 Oumar Abdramane ALLAWAN
