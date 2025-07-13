@@ -1,14 +1,9 @@
 # Challenge Data Science - Prédiction des Risques Incendie Agricoles
 
 ## Description du Projet
-Ce projet est un challenge data science organisé par Crédit Agricole Assurances pour améliorer la modélisation du risque incendie dans les contrats Multirisque Agricole. Le but est de développer des modèles de prédiction plus performants que les GLM standards utilisés actuellement.
+Ce projet vise améliorer la modélisation du risque incendie dans les contrats Multirisque Agricole. Le but est de développer des modèles de prédiction plus performants que les GLM standards utilisés actuellement.
 
-## Contexte
-- **Organisateur** : Crédit Agricole Assurances
-- **Commencé le** : 8 janvier 2025
-- **Niveau** : Intermédiaire
-- **Type de données** : Tabulaires (10Mo à 1Go)
-- **Méthode** : Régression
+
 
 ## Objectif
 Prédire la prime pure incendie en développant deux modèles distincts :
